@@ -1,7 +1,7 @@
 # challenges
 Python challenges
 
-# Installation of dependencies
+# Installing Dependencies
 
 Installing Pandas via pip
   
